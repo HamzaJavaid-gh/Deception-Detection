@@ -5,7 +5,7 @@ Dataset Used: Real life trial data collected during a series of experiments at M
 
 The dataset can be downloaded by requesting the authors https://web.eecs.umich.edu/~mihalcea/index.html  
 
-To download/test a sample video form Real Life Trial Data, a sample video is present in Sample Data Folder.
+To download/test a sample video form Real Life Trial Data, a sample video is present with name trial_lie_026.mp4.
  
  
 
