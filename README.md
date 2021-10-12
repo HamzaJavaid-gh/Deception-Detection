@@ -18,8 +18,10 @@ python predict.py
 
 ## For Training the Bag_of_Lies Data
 
-1- Put the dataset in the root directory of your project
-2- python clean.py
+1- Put the dataset in the root directory of your project  
+
+2- python clean.py  
+
 3- python train.py
 
 ## Models
