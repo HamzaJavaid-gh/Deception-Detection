@@ -1,8 +1,13 @@
 # Deception-Detection
 Detecting Falsehood in Courtroom Trials using Deep  Learning
 
+Dataset Used: Real life trial data collected during a series of experiments at Michigan (http://web.eecs.umich.edu/~zmohamed/PDFs/Trial.ICMI.pdf)  
 
-Note: To download the Bag_of_Lies dataset (https://drive.google.com/drive/folders/1AuNPjKMYS_YqN8LKTrnkkg9iIMlsE7Ei?usp=sharing)
+The dataset can be downloaded by requesting the authors https://web.eecs.umich.edu/~mihalcea/index.html  
+
+To download/test a sample video form Real Life Trial Data, a sample video is present in Sample Data Folder.
+ 
+ 
 
 
 ## Step 1
